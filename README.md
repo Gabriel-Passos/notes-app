@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=React&message=18&color=blue&style=flat"/><a/>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Next.js&message=14.2.3&color=blue&style=flat"/><a/>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Tailwind&message=3.4.17&color=blue&style=flat"/><a/>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Zustand&message=5.0.3&color=blue&style=flat"/><a/>
+  <a href="https://react.dev/"><img src="https://img.shields.io/static/v1?label=React&message=18&color=blue&style=flat"/><a/>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/static/v1?label=Next.js&message=14.2.3&color=blue&style=flat"/><a/>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/static/v1?label=Tailwindcss&message=3.4.17&color=blue&style=flat"/><a/>
+  <a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/static/v1?label=Zustand&message=5.0.3&color=blue&style=flat"/><a/>
 </p>
 
 > Aplicação desenvolvida com a inteligência artificial cursor ai.
@@ -37,7 +37,7 @@
 Acesse o terminal, e clone o projeto com o seguinte comando: 
 
 ```
-git clone https://github.com/Gabriel-Passos/be-the-hero.git
+git clone https://github.com/Gabriel-Passos/notes-app.git
 ```
 
 - Com o projeto clonado e com o terminal aberto, precisamos instalar as dependências do projeto, portanto execute o seguinte comando:
@@ -64,12 +64,11 @@ Você encontrará sua aplicação rodando em: http://localhost:3000
 
 ## Tecnologias utilizadas
 
-- [NodeJS](https://nodejs.org/en/docs/)
-- [Express](https://expressjs.com/)
-- [ReactJS](https://reactjs.org/docs/)
-- [React-Router-DOM](https://reactrouter.com/)
-- [React Native](https://reactnative.dev/docs/getting-started)
-- [React Navigation](https://reactnavigation.org/)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Cursor AI](https://www.cursor.com/)
 
 ## Telas do projeto 
 
