@@ -3,14 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/static/v1?label=Express&message=4.17.1&color=blue&style=flat"/><a/>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=React&message=16.13.1&color=blue&style=flat"/><a/>
-  <a href="https://reactrouter.com/"><img src="https://img.shields.io/static/v1?label=React-Router-DOM&message=5.1.2&color=blue&style=flat"/><a/>
-  <a href="https://reactnative.dev/"><img src="https://img.shields.io/static/v1?label=React-Native&message=sdk-36.0.0&color=blue&style=flat"/><a/>
-  <a href="https://reactnavigation.org/"><img src="https://img.shields.io/static/v1?label=React-Navigation&message=5.1.3&color=blue&style=flat"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=React&message=18&color=blue&style=flat"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Next.js&message=14.2.3&color=blue&style=flat"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Tailwind&message=3.4.17&color=blue&style=flat"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Zustand&message=5.0.3&color=blue&style=flat"/><a/>
 </p>
 
-> Aplicação desenvolvida durante a Semana OmniStack 11 da Rocketseat.
+> Aplicação desenvolvida com a inteligência artificial cursor ai.
 
 ### Tópicos 
 
@@ -26,10 +25,10 @@
 
 ## Descrição do projeto
 
-### O que é Be The Hero?
+### O que é Notes App?
 
 <p align="justify">
-  Be The Hero é uma aplicação com objetivo de oferecer as ONGS um meio de encontrar pessoas que queiram ajudar. A aplicação possuí duas frentes que estão consumindo a mesma API. As ONGS deverão utilizar a aplicação web para divulgar seus casos, enquanto os usuários deverão utilizar a aplicação mobile para visulizar os casos em aberto.
+  O Notes App é uma ferramenta simples e prática para anotações do dia a dia. Ele oferece um quadro digital onde você pode registrar ideias, lembretes e tarefas, ideal para quem não tem um quadro físico em casa ou prefere evitar o uso de papéis colados na parede. Com o Notes App, você pode anotar o quanto quiser e ainda organizar tudo por categorias, facilitando a busca e a gestão das suas anotações.
 </p>
 
 
