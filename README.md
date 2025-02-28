@@ -9,7 +9,7 @@
   <a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/static/v1?label=Zustand&message=5.0.3&color=blue&style=flat"/><a/>
 </p>
 
-> Aplicação desenvolvida com a inteligência artificial cursor ai.
+> Aplicação desenvolvida com a inteligência artificial da Cursor AI.
 
 ### Tópicos 
 
