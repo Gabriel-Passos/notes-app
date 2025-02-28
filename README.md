@@ -73,9 +73,7 @@ Você encontrará sua aplicação rodando em: http://localhost:3000
 ## Telas do projeto 
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/43184223/88622388-1d55bd80-d079-11ea-8a71-ae2b00590c32.png">
-  <img src="https://user-images.githubusercontent.com/43184223/88622910-21360f80-d07a-11ea-9138-c8937d9286fc.png">
-  <img src="https://user-images.githubusercontent.com/43184223/88623018-63f7e780-d07a-11ea-9789-46caf914507f.png">
+  <img src="https://github.com/user-attachments/assets/a5964ddf-6da2-43b0-9838-95768dc71908">
 </p>
 
 ## Desenvolvedores :octocat:
