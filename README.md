@@ -70,7 +70,7 @@ Você encontrará sua aplicação rodando em: http://localhost:3000
 - [Zustand](https://zustand-demo.pmnd.rs/)
 - [Cursor AI](https://www.cursor.com/)
 
-## Telas do projeto 
+## Tela do projeto 
 
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/a5964ddf-6da2-43b0-9838-95768dc71908">
